@@ -1,8 +1,7 @@
-# Awesome Project Build with TypeORM
+# API CRUD de cadastro empresarial
 
-Steps to run this project:
+Para rodar esse projeto:
 
-1. Run `npm i` command
-2. Setup database settings inside `ormconfig.json` file
-3. Run `npm start` command
-# API-cadastro-empresarial
+1. Use o comando `npm i`
+2. Configure seu banco de dados dentro do arquivo `ormconfig.json
+3. Use o comando `npm start`
